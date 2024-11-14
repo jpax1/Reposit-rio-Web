@@ -1,0 +1,137 @@
+@charset "UTF-8";
+body{
+	font-family: "Arial", sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	background-color: rgb(83, 122, 179);
+	color: white;
+}
+
+nav ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	padding-left: 20px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+nav ul li a:hover {
+	border: solid #b7b7b7 2px;
+	border-radius: 20px;
+	background-color: #b7b7b7;
+}
+
+.logo{
+	display: flex;
+	align-items: center;
+}
+
+nav ul input {
+	height: 20px;
+	border: 1px solid #8ca6cc;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+
+main {
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+
+.imagem {
+	display: flex;
+	justify-content: center;
+	border: solid 5px red;
+}
+
+.jogos {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.jogo {
+	border: solid 3px red;
+	width: 200px;
+	margin-top: 34px;
+	margin-left: 60px;
+}
+
+.conteudo {
+	display: flex;
+	flex-direction: column;
+	align-items: center
+}
+
+.conteudo h1, .conteudo h4 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.botoes {
+	display: flex;
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.botoes li {
+	padding-left: 20px;
+}
+
+.botoes .botao1 {
+	padding-left: 0;
+}
+
+footer {
+	display: flex;
+	background-color: rgb(63, 95, 141);
+	height: 60px;
+	width: 100%;
+}
+
+.organizar {
+	display: flex;
+	justify-content: center;
+}
+
+form {
+	margin-left: 20px;
+}
+
+.rotulo {
+	font-weight: bold;
+	color: #30acba;
+}
+
+.campo {
+	margin-top: 5px;
+	height: 30px;
+	width: 300px;
+	border: 3px solid #9ae0ed;
+	border-radius: 7px;
+}
+
+button {
+	background-color: rgb(32, 189, 198);
+	color: white;
+	font-weight: bold;
+	border: solid 8px rgb(32, 189, 198);
+	border-radius: 10px;
+}
