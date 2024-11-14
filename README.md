@@ -58,6 +58,13 @@ src/ : Código Java para Servlets e classes auxiliares.
 WebContent/ : Arquivos JSP, HTML, CSS, e o diretório WEB-INF com bibliotecas.
 lib/ : Arquivos .jar necessários (ex.: MySQL Connector).
 
+#Desenvolvedores
+Claudio Manoel da Silva Dourado Morais
+Gabriel Pedro Do Nascimento Benis
+Guilherme Henrique 
+Gustavo Alves de Sousa
+João Pedro Arantes Xaxá
+
 Licença
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para fins educacionais. O código-fonte e demais materiais fornecidos são de uso restrito e não possuem 
 permissão para redistribuição, uso comercial, ou cópia sem autorização. Qualquer uso fora do contexto educacional deverá ser previamente autorizado pelo autor.
