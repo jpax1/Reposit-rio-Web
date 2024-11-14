@@ -61,7 +61,7 @@ lib/ : Arquivos .jar necessários (ex.: MySQL Connector).
 #Desenvolvedores
 Claudio Manoel da Silva Dourado Morais
 Gabriel Pedro Do Nascimento Benis
-Guilherme Henrique 
+Guilherme Henrique Rodriguez Lima
 Gustavo Alves de Sousa
 João Pedro Arantes Xaxá
 
